@@ -1,0 +1,1 @@
+This folder showcases the Logistic Regression Algorithm from scratch. Gradient Descent has been used and the accuracy has been compared to sklearn's Newton Raphson Method for minimizing the Log loss function
